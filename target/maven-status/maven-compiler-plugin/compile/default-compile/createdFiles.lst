@@ -1,0 +1,15 @@
+com\sprsec\controller\SecurityNavigation.class
+com\sprsec\dao\RoleDAOImpl.class
+com\sprsec\dao\UserDAOImpl.class
+com\sprsec\service\RoleServiceImpl.class
+com\sprsec\model\Role.class
+com\sprsec\init\Initializer.class
+com\sprsec\service\RoleService.class
+com\sprsec\dao\UserDAO.class
+com\sprsec\service\CustomUserDetailsService.class
+com\sprsec\service\UserService.class
+com\sprsec\controller\LinkNavigation.class
+com\sprsec\model\User.class
+com\sprsec\service\UserServiceImpl.class
+com\sprsec\dao\RoleDAO.class
+com\sprsec\init\WebAppConfig.class
